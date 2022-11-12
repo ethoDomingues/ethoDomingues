@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ethoDomingues
 - 👀 I’m interested in Golang and Python
 - 🌱 I’m currently learning Golang and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 ethodomingues@gmail.com
 
 <!---
